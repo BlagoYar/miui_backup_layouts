@@ -1,2 +1,2 @@
-# miui_backup_layout
+# MIUI Backup Layouts
 Скрипты для сохранения и восстановления расположения иконок, папок и т.д. рабочего стола com.miui.home
