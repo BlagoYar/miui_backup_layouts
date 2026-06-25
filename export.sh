@@ -92,6 +92,7 @@ for DB in "${SELECTED_DBS[@]}"; do
 	echo
 
 	BASE_OUT="$EXPORT_ROOT/$db_basename"
+	rm -rf "$BASE_OUT"
 	mkdir -p "$BASE_OUT"
 
 	# --- 1. Export Desktops ---
